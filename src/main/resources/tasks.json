@@ -1,0 +1,23 @@
+[
+    {
+      "idTarea": 1001,
+      "descripcionTarea": "Meet con UX",
+      "nombreColaborador": "Juan Fuentes",
+      "fechaHoraInicio": "2024-10-08 10:00",
+      "fechaHoraFin": "2024-10-08 11:00"
+    },
+    {
+      "idTarea": 1002,
+      "descripcionTarea": "Realizar porototipos",
+      "nombreColaborador": "Pedro Vargas",
+      "fechaHoraInicio": "2024-10-08 11:00",
+      "fechaHoraFin": "2024-10-09 14:00"
+    },
+    {
+      "idTarea": 1003,
+      "descripcionTarea": "Maquetado en front",
+      "nombreColaborador": "Alberto Juarez",
+      "fechaHoraInicio": "2024-10-09 16:00",
+      "fechaHoraFin": "2024-10-11 14:00"
+    }
+]
