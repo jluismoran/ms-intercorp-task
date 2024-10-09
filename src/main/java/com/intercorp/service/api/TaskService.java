@@ -2,7 +2,6 @@ package com.intercorp.service.api;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.intercorp.domain.api.TareaRequest;
 import com.intercorp.domain.api.TareaResponse;
 import com.intercorp.domain.dto.TareaDTO;
 import org.apache.logging.log4j.LogManager;
